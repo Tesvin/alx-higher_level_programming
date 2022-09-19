@@ -1,7 +1,7 @@
 #ifdef LISTS_H
 #define LIST_H
 
-#include <stlib.h>
+#include <stdlib.h>
 
 /**
  * struct listint_s - singly linked list
