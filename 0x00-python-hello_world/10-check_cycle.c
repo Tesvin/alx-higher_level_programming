@@ -2,7 +2,7 @@
 /**
  * check_cycle - cycle tortoise and hare
  * @list: pointer to head
- * Return 1 on success, 0 otherwise.
+ * Return: 1 on success, 0 otherwise.
  */
 int check_cycle(listint_t *list)
 {
