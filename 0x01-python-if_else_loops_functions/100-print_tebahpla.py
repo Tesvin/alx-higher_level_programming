@@ -4,4 +4,4 @@ for i in range(-122, -96):
         let = chr(i * -1)
     else:
         let = chr((i * -1) - 32)
-    print("{}".format(let), end="")
+    print("{}".format(let), end=", ")
