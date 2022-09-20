@@ -5,10 +5,3 @@ for i in range(-122, -96):
     else:
         let = chr((i * -1) - 32)
     print("{}".format(let), end="")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
