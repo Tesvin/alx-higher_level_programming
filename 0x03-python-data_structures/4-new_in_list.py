@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 def new_in_list(my_list, idx, element):
-    copy = my_list.copy()
+    new = my_list.copy()
     for i in my_list:
         if idx == my_list.index(i):
-            element = copy[idx]
-            return (copy)
+            copy[idx] = element
+            return (new)
         elif idx >= len(my_list):
-            return (copy)
+            return (new)
         elif idx < 0:
-            return (copy)
+            return (new)
