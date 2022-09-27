@@ -124,7 +124,7 @@ Write a function that deletes the item at a specific position in a list.
 # 12-switch.py
 Complete the source code in order to switch value of a and b
 
-* You can find the source code [her](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py)
+* You can find the source code [here](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py)
 * Your code should be inserted where the comment is (line 4)
 * Your program should be exactly 5 lines long
 
