@@ -1,5 +1,4 @@
 #!/usr/bin/python3
 def uniq_add(my_list=[]):
-    Listset = set(my_list)
-    result = sum(Listset)
+    result = sum(set(my_list))
     print("Result: {:d}".format(result))
